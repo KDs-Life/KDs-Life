@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 Currently embarking on <br>a coding journey after transitioning from a career as a fitness trainer.<br>👯 Open to collaborating on exciting projects.<br>🤝 Eager to improve my coding skills and expand my knowledge.<br>🌱 Currently delving deep into the world of web development, <br>with a focus on learning React and backend technologies.<br>💬 Ask me about my transition from fitness to coding, <br>and my passion for building web applications.<br>⚡ Fun fact:<br>I believe in the incredible possibilities that web development offers!<br><br>Hello! <br>I'm someone who once helped people get fit, <br>but now I'm on a mission to help create a healthier digital world. <br>I've made the switch to become a web developer, <br>and I'm absolutely loving every moment of it, <br>even though I'm still at the beginning of this challenging but rewarding journey.<br><br>My coding adventure began with HTML5 and CSS, <br>and I've already created some cool stuff with ExcaliDraw.<br>I've got the basics of Tailwind CSS and Bootstrap under my belt. <br>Right now, I'm diving deep into <br>JavaScript, React, Next.js, Node.js, Express.js, SQL, and MongoDB.<br><br>I'm actively seeking opportunities to collaborate on exciting projects <br>and would love to connect with fellow developers and designers. <br>Whether it's sharing insights about my career transition, <br>discussing the joys of coding, or exploring the potential of web development, <br>feel free to reach out!<br><br>Let's make the web a better place together! 🌟<br>
+🔭 Currently embarking on
+a coding journey after transitioning from a career as a fitness trainer.
+👯 Open to collaborating on exciting projects.
+🤝 Eager to improve my coding skills and expand my knowledge.
+🌱 Currently delving deep into the world of web development,
+with a focus on learning React and backend technologies.
+💬 Ask me about my transition from fitness to coding,
+and my passion for building web applications.
+⚡ Fun fact:
+I believe in the incredible possibilities that web development offers!
+
+Hello!
+I’m someone who once helped people get fit,
+but now I’m on a mission to help create a healthier digital world.
+I’ve made the switch to become a web developer,
+even though I’m still at the beginning of this challenging but rewarding journey.
+<br>Let's make the web a better place together! 🌟<br>
 
 
 ## 🌐 Socials:
