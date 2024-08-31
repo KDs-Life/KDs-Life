@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 Currently embarking on a journey as an IT specialist for system integration after transitioning from a career as a fitness trainer.<br><br>👯 Open to collaborating on exciting projects.<br><br>🤝 Eager to improve my skills and expand my knowledge.<br><br>🌱 Currently delving deep into the world of coding to enhance my expertise in system integration.<br><br>💬 Ask me about my transition from fitness to IT, and my passion for creating efficient digital solutions.<br><br>⚡ I believe in the incredible possibilities that technology offers!<br><br>📚 Currently undergoing retraining as an IT specialist for system integration.<br><br><br>Hello!<br><br>I’m someone who once helped people get fit, but now I’m on a mission to help create a healthier digital world.<br><br>I’ve made the switch to become an IT specialist, even though I’m still at the beginning of this challenging but rewarding journey.<br><br><br>Let's make the digital world a better place together! 🌟
 
 
 ## 🌐 Socials:
